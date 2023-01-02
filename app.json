@@ -1,0 +1,12 @@
+{
+  "android": {
+    "package": "com.hero1725.chatapp"
+  },
+  "expo": {
+    "name": "My app",
+    "slug": "my-app",
+    "android": {
+      "package": "com.hero1725.myapp"
+    }
+  }
+}
